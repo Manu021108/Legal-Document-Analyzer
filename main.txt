@@ -1,0 +1,102 @@
+What is programming?
+
+language--> 
+
+Machine??  ---> you go there 
+you do this task 
+
+MUL--> binary language 
+
+binary lang ---> human doesnt knows 
+
+programming lang---> 
+
+C,python,c++,java,golang....etc..
+
+
+why python?
+
+One of the popular and mostly known language 
+AI --related things 
+
+what is python? 
+
+high level and dynamic programming language 
+
+high level ---> english 
+dynamic  ---> due to memory alloaction 
+
+C --- 1st year 
+
+int a = 100;
+
+python --->
+
+a = 100
+
+Features???
+
+1.Interpreted language:
+Line by line execution 
+
+C --- Programming 
+
+#include<stdio.h>
+int 
+main{
+    printf("Hello world")
+}
+
+compile ---> binary language (MUL)
+
+a.out --> output print 
+
+2.OOPS paradigm:
+
+To achieve the modular programming 
+
+3.Easy to learn 
+
+4.dynamically typed:
+
+int a = 100;
+
+a = 100
+
+
+#  Execution Flow:  
+                     C _ programming 
+                          |
+                     write the program 
+                          |
+                       compiler(binary)
+                          |
+                       a.out 
+
+
+                     Python |
+                       |
+                    write a program 
+                       |
+                  interpreter --->.pyc (Pre compiled code)
+                       |
+                    PVM --> python virtual machine(Engine) 
+                       |
+                   MUL- binary lang   
+                       |
+                    output      
+
+                            
+                                      
+
+
+
+
+
+
+
+
+ew line added
+ew line added
+ew line added
+ew line added

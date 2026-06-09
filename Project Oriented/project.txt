@@ -1,0 +1,25 @@
+Full stack Development:
+
+frontend ---> what the user sees 
+and where the user starts interacting 
+username + password --> results 
+
+backend : 
+all the request sent by the user will
+ be handled by the backend 
+
+
+frontend ---> request --->backend (process)
+                            |
+                        database (check)-->login successfull
+
+                        if no data (sign up)
+
+Full stack: 
+                frontend ---> html,css,js,react
+                     +
+                backend  --->Python
+                    +
+                database ---> mysql,oracle,mongodb,postgresql  
+                
+                                  
